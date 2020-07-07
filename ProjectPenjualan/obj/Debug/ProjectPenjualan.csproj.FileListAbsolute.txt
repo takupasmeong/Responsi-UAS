@@ -1,0 +1,6 @@
+D:\pemrograman semester 2\tugas\responsi uas\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+D:\pemrograman semester 2\tugas\responsi uas\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+D:\pemrograman semester 2\tugas\responsi uas\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+D:\pemrograman semester 2\tugas\responsi uas\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+D:\pemrograman semester 2\tugas\responsi uas\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+D:\pemrograman semester 2\tugas\responsi uas\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
